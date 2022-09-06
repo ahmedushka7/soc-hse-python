@@ -5,3 +5,8 @@
 - простейшие объекты
 - библиотеки и функции
 - конструкцию `if-elif-else`
+
+### Яндекс.Контест
+
+[Набор задач 1: типы, строки, числа](https://official.contest.yandex.ru/contest/40133/standings)
+[Набор задач 2: условия](https://official.contest.yandex.ru/contest/40134/standings)
