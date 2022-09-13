@@ -5,7 +5,7 @@
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
 - Любые вопросы можно задавать в общий чат. Там можно найти поддержку и пофлудить. [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/+ahuPbt1fWsxiNjhi) 
 - Канал с основными объявлениями [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/+cyIRVHwh9lIwMTEy)
-
+- [Сервис](https://minhaskamal.github.io/DownGit/#/home) для скачки отдельных материалов с репозитория.
 
 ## Идеология курса
 
