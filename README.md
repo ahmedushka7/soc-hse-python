@@ -43,7 +43,8 @@ __Ссылки:__
 Установите перед первым семинаром Anaconda. [Инструкция для windows](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/utils/install_conda_windows.pdf) и [инструкция для мака.](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/utils/install_conda_mac.pdf)
 
 
-- [__sem01__](./week01) Вспоминаем Python, болтаем о курсе. 
+- [__sem01__](./week01) Вспоминаем Python, болтаем о курсе. Базовые типы данных. if-elif-else.
+- [__sem02__](./week02) list, tuple, for, while.
 
 
 ## Контрибьюторы и создатели
