@@ -42,15 +42,22 @@ __Ссылки:__
 
 Установите перед первым семинаром Anaconda. [Инструкция для windows](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/utils/install_conda_windows.pdf) и [инструкция для мака.](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/utils/install_conda_mac.pdf)
 
+__Раздел №1: Программирование на Python__
 
 - [__sem01__](./week01) Вспоминаем Python, болтаем о курсе. Базовые типы данных. if-elif-else.
 - [__sem02__](./week02) Коллекции list (список) и tuple (кортеж). Циклы for и while.
 - [__sem03__](./week03) O-большое, dict, set, function.
+
+__Раздел №2: Сбор и анализ данных в Python__
+
 - [__sem04__](./week04) Анализ данных в Pandas
 - [__sem05__](./week05) Продолжение pandas + визуализация.
 - [__sem06__](./week06) Парсинг. API.
 
+__Раздел №3: Повторение теории вероятностей__
 
+- [__sem07__](./week07) Отвечаем на вопросы: Что такое случайная величина? Как устроен мир?
+- [__sem08__](./week08) ЗБЧ и ЦПТ. Симуляции в Python. Свойства оценок.
 
 ## Контрибьюторы и создатели
 
